@@ -26,7 +26,7 @@ $ pip install -U cookiecutter
 2. Generate your Masonite package project following prompt options:
 
 ```bash
-$ cookiecutter https://github.com/girardinsamuel/cookiecutter-masonite-package.git
+$ cookiecutter https://github.com/MasoniteFramework/cookiecutter-masonite-package.git
 ```
 
 (_For cookiecutter CLI options, check directly [cookiecutter](https://github.com/cookiecutter/cookiecutter)_).
